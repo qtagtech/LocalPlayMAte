@@ -26,10 +26,10 @@ error_reporting(0);
 	ParseClient::initialize('BvaGdIVblCHcJPqXfLRhmsfnwOcQQsDrEG7M5sN9', 'lH58zjciislH6Usg90j5kl0j0fPZkcDE9QUcfEIw', 'YhNLMjR1smdrmAcheQbREbVVuzHx2xJjuIVgMtIC');
 	use Parse\ParseObject;
  
-$testObject = ParseObject::create("TestObject");
+/*$testObject = ParseObject::create("TestObject");
 $testObject->set("foo", "bar");
 $testObject->set("user","juanda");
-$testObject->save();
+$testObject->save();*/
   ?>
     <meta charset="utf-8">
     <meta name="author" content="<?php echo $lang['website_author'];?>">
@@ -196,7 +196,7 @@ $testObject->save();
 		
 		     	<div class="row">
 		     	
-		     		<div class="span6 leftside-header">
+		     		<div class="span6 leftside-header offset7">
 		     		
 		     			<a href="#"><img src="img/logo_medium.png" alt="Local PlayMate - Premium Escort Service - Maneja Tu tiempo desde una App Móvil, selecciona los clientes que quieres atender y recibe pagos online para no manejar efectivo."/></a>		     			
 		     		
@@ -225,9 +225,7 @@ $testObject->save();
 		     			
 		     			<div class="video-button">
 		     				
-		     				<a href="#">
-		     					<img src="img/play.png" class="play-button" alt="Inscríbete para ser un Premium Escort usando Local PlayMate"/>
-		     				</a>
+		     				<a href="#" id="doitnownow" class="btn btn-large btn-yellow uppercase">¡Inscribirme Ya!</a>
 		     				
 		     			</div> <!--/ .video-button -->
 		     		
@@ -308,7 +306,7 @@ $testObject->save();
 									<?php if($upload == true){ ?>
 									<div class="file-group">
 										<label for="userfile1" class="group label-file">
-											<span class="button-upload blue"><?php echo $lang['form_userfile_choose'];?></span>								
+											<span class="button-upload green"><?php echo $lang['form_userfile_choose'];?></span>								
 											<input type="file" id="userfile1" name="userfile1" class="file" onchange="document.getElementById('fake1').value = this.value;">
 											<i class="icon-upload-2"></i>
 											<input type="text" id="fake1" class="input" placeholder="<?php echo $lang['form_placeholder_userfilecedula'];?>">

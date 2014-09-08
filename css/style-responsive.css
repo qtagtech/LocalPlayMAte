@@ -63,6 +63,10 @@
 	/* Head Banner */
 	h1.tagline{
 		line-height: 1.2em;
+		padding-left: 15px;
+	}
+	.sub-tagline{
+		padding-left: 15px;
 	}
 	
 	.flexslider-testimonial{
@@ -153,9 +157,13 @@
 	#head-banner{
 		background-size: cover;
 	}
+	h1.tagline{
+		padding-left: 15px;
+	}
 	
 	.sub-tagline{
 		text-align: center;
+		padding-left: 15px;
 	}
 
 	/* Marketing Content */

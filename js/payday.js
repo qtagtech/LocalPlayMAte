@@ -2,7 +2,7 @@
 jQuery(document).ready(function($) {
 
     //Own scripts
-    $('body').on('click','.video-button, #doitnow',function(e){
+    $('body').on('click','.video-button, #doitnow','#doitnownow',function(e){
         e.preventDefault();
         $("#firstname").focus();
     });
