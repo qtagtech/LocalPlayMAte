@@ -1,0 +1,378 @@
+/**********************************************************************************
+
+	Project Name: Responsive - Green Skeuomorph Style for Payday Landing Page
+	Project Description: Payday is a business, corporate landing page, aimed for personal loans corporation and subscribe list page
+	Author: xWisnux (Works of Wisnu)
+	Author URI: http://www.worksofwisnu.com
+	Version: 1.0.0
+	
+**********************************************************************************/
+/* Large desktop */
+@media (min-width: 1200px) {
+	/* Head Form */
+	.jslider .jslider-label{
+		font-size: 18px !important;
+		line-height: 4px !important;			
+	}
+	
+	.jslider .jslider-value{
+		font-size: 24px !important;
+		line-height: 0 !important;
+	}
+	
+	.small-form-text {
+		font-size: 12px;
+	}
+	
+	/* Breakline */
+	.counter{
+		border-radius: 8px;
+	}
+	
+	.counter li{
+		width: 80px;
+		border-radius: 6px;
+	}	
+
+	.counter li:before {
+		top: 48px;
+	}
+	
+	.counter li:after {
+		top: 50px;
+	}
+	
+	.counter li span {
+		font-size: 88px;
+		line-height: 1.1em;
+		height: 100px;
+	}
+	
+	/* Footer Subscribe Form */
+	.footer-subscribe input[type="text"]{
+		width: 69.7%;
+	}
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+	.chat-box{
+		width: 212px !important;
+	}
+	
+	/* Head Banner */
+	h1.tagline{
+		line-height: 1.2em;
+	}
+	
+	.flexslider-testimonial{
+		min-height: 205px !important;
+	}
+	
+	/* Featurettes */
+	span.rollover {
+		height: 275px;
+	}
+	
+	/* Lower Content */
+	.toggle-heading .toggle-button{
+		padding: 8px 15px;
+	}
+	
+	.toggle-faq {
+		display: none;
+	}
+	
+	.contact-info{
+		width: 50%;
+	}
+	
+	/* Breakline */
+	.counter{
+		margin: 65px 0;
+	}
+	
+	.counter li {
+		width: 50px;
+	}
+	
+	.counter li span{
+		font-size: 65px;
+		line-height: 1.1em;
+	}
+	
+	/* Footer Subscribe */
+	.footer-subscribe input[type="text"]{
+		width: 92%;
+		margin-bottom: 8px;
+	}
+	
+	.footer-subscribe input.subscribe-submit{
+		width: 101%;
+	}
+
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	/* GLobal */
+	section{
+		padding: 20px !important;
+	}
+
+	/* Header */
+	#top-header{
+		padding: 10px 20px;
+	}
+	
+	.head-social{
+		width: 40%;
+	}
+	
+	.head-nav{
+		width: 59%;
+		padding: 0;
+	}
+	
+	.head-email{
+		width: 49%;
+	}
+	
+	.leftside-header, .rightside-header{
+		width: 49%;
+	}
+	
+	.head-social, .head-nav, .head-email, .leftside-header, .rightside-header{
+		display: inline-block;
+	}
+	
+	.head-email, .rightside-header{
+		float: right;
+	}
+	
+	#head-banner{
+		background-size: cover;
+	}
+	
+	.sub-tagline{
+		text-align: center;
+	}
+
+	/* Marketing Content */
+	.title{
+		margin-bottom: 2em;
+	}
+	
+	.marketing-content{
+		margin-bottom: 60px;
+	}
+	
+	/* Dark Section */
+	.dark-section [class*="span"]{
+		text-align: center;
+	}
+	
+	.checklist {
+		text-align: left;
+		padding: 0 30px;
+	}
+	
+	.checklist li{
+		margin-bottom: 20px;
+	}
+	
+	.flexslider-featurettes .flex-control-nav {
+		text-align: center !important;
+	}
+	
+	/* Lower Content */
+	#lower-content{
+		text-align: center;
+	}
+	
+	.toggle-content, .full-width-toggle-content{
+		text-align: left;
+	}
+	
+	.toggle-faq {
+		display: none;
+	}
+	
+	.toggle-heading .toggle-button{
+		padding: 8px 15px;
+	}
+	
+	#lower-content > .container > .row > [class*="span"]{
+		margin-bottom: 40px;
+	}
+	
+	#lower-content .btn{
+		float: none !important;
+		width: 90%;
+		padding: 10px 20px;
+	}
+	
+	/* Lower Content */
+	#lower-content{
+		text-align: center;
+	}
+	
+	.toggle-content{
+		text-align: left;
+	}
+	
+	.toggle-faq {
+		display: none;
+	}
+	
+	.toggle-heading .toggle-button{
+		padding: 8px 15px;
+	}
+	
+	#lower-content > .container > .row > [class*="span"]{
+		margin-bottom: 40px;
+	}
+	
+	#lower-content .btn{
+		float: none !important;
+		width: 90%;
+		padding: 10px 20px;
+	}
+	
+	/* Breakline */
+	#breakline{
+		text-align: center;
+		padding: 50px;
+	}
+	
+	/* Footer */
+	#footer{
+		text-align: center;
+	}
+	
+	#footer .social{
+		margin-bottom: 20px;
+		float: none;
+	}
+	
+	.footer-subscribe input[type="text"]{
+		width: 67%;
+	}
+	
+}
+
+/* Portrait phones and down */
+@media (max-width: 320px) {
+	h1 {
+	  font-size: 38.5px;
+	}
+	
+	h2 {
+	  font-size: 31.5px;
+	}
+	
+	h3 {
+	  font-size: 24.5px;
+	}
+	
+	h4 {
+	  font-size: 17.5px;
+	}
+	
+	h5 {
+	  font-size: 14px;
+	}
+	
+	h6 {
+	  font-size: 11.9px;
+	}
+	/* Header */
+	.head-social, .head-nav, .head-email, .leftside-header, .rightside-header{
+		width: 100%;
+		display: inline-block;
+		text-align: center;
+	}
+	
+	.head-nav{
+		padding-top: 8px;
+		float: none;
+	}
+	
+	.head-email, .rightside-header{
+		float: none;
+	}	
+	
+	.head-email p{
+		float: none;
+	}
+	
+	.rightside-header{
+		text-align: left;
+		width: 75%;
+		margin: 0 auto;
+		display: block;
+	}
+	
+	/* Head Banner */	
+	.headbanner-form h2{
+		padding: 0;
+	}
+	
+	.headbanner-form input[type="submit"]{
+		font-size: 22px;
+	}
+	
+	/* Content */
+	#marketing .title, .dark-section .title{
+		padding: 0;
+	}
+	
+	.checklist{
+		padding: 0;
+	}
+	
+	#lower-content .btn{
+		width: 85%;
+	}
+	
+	.flexslider-content-testimonial{
+		margin: 20px 0 60px !important;
+	}
+	
+	/* Breakline */
+	.counter{
+		padding: 3px;
+	}
+	
+	.counter li{
+		width: 40px;
+	}
+	
+	.counter li:before{
+		top: 32px;
+	}
+	
+	.counter li:after{
+		top: 35px;
+	}
+	
+	.counter li span{
+		font-size: 60px;
+		height: 66px;
+	}
+	
+	/* Footer */
+	.footer-subscribe input[type="text"]{
+		width: 90%;
+		margin-bottom: 10px;
+	}
+	
+	.footer-subscribe input.subscribe-submit{
+		width: 100%;
+	}
+	
+	.footer-subscribe-text {
+		font-size: 11px;
+	}
+
+}

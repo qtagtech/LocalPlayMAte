@@ -1,0 +1,358 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>404 Not Found</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style type="text/css">
+        body {
+        	font-family: Verdana, Arial, Helvetica, sans-serif;
+        	font-size: 12px;
+        	background-color:#367E8E;
+        	scrollbar-base-color: #005B70;
+        	scrollbar-arrow-color: #F3960B;
+        	scrollbar-DarkShadow-Color: #000000;
+        	color: #FFFFFF;
+			margin:0;
+        }
+        a { color:#021f25; text-decoration:none}
+        h1 {
+        	font-size: 18px;
+        	color: #FB9802;
+        	padding-bottom: 10px;
+        	background-image: url(sys_cpanel/images/bottombody.jpg);
+        	background-repeat: repeat-x;
+        	padding:5px 0 10px 15px;
+			margin:0;
+        }
+        #body-content p {
+        	padding-left: 25px;
+        	padding-right: 25px;
+        	line-height: 18px;
+        	padding-top: 5px;
+        	padding-bottom: 5px;
+        }
+        h2 {
+        	font-size: 14px;
+        	font-weight: bold;
+        	color: #FF9900;
+        	padding-left: 15px;
+        }
+    </style>
+  </head>
+  <body>
+    <div id="body-content">  
+<!-- start content-->
+
+<!-- 
+ instead of REQUEST_URI, we could show absolute URL via:
+ http://HTTP_HOST/REQUEST_URI
+    but what if its https:// or other protocol?
+    
+    SERVER_PORT_SECURE doesn't seem to be used
+    SERVER_PORT logic would break if they use alternate ports
+-->
+
+<h1>404 Not Found</h1>
+<p>The server can not find the requested page:</p>
+  <blockquote>
+    www.j-query.org/jquery-1.6.3.min.js (port 80)
+  </blockquote> 
+<p>
+    Please forward this error screen to www.j-query.org's 
+    <a href="mailto:rt@skynethosting.net?subject=Error message [404] 404 Not Found for www.j-query.org/jquery-1.6.3.min.js port 80 on Wednesday, 11-Sep-2013 02:08:13 CDT">
+    WebMaster</a>.
+</p>
+<hr />
+
+
+<!-- end content -->
+    </div>
+  </body>
+</html>
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Nothing found for  Theme-preview Payday-landing-page Payday_List(Flat) Img Arrow Png | worksofwisnu.com - Just another Web Designer and Developer</title>
+    
+    <link href="../../../../wp-content/themes/videogrid/style.css" media="screen" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../../feeds.feedburner.com/worksofwisnu" />
+    <link rel="pingback" href="http://worksofwisnu.com/xmlrpc.php" />
+    <link rel="author" href="../../../../../https@plus.google.com/116828185647076383069">
+	    <link rel='stylesheet' id='extended-tags-widget-css'  href='../../../../wp-content/plugins/extended-tags-widget/css/widget.css@ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='skin-css'  href='../../../../wp-content/themes/videogrid/images/skins/tango/skin.css@ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='../../../../wp-content/themes/videogrid/css/prettyPhoto.css@ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='shCore-css'  href='../../../../wp-content/themes/videogrid/css/shCore.css@ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='shThemeDefault-css'  href='../../../../wp-content/themes/videogrid/css/shThemeDefault.css@ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-foobar-1-4-css-css'  href='../../../../wp-content/plugins/foobar/css/jquery.foobar.1.4.css@ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='foobar-css-dynamic-css'  href='../../../../@foobar-css-dynamic=css&ver=3.5.2' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://worksofwisnu.com/xmlrpc.php?rsd" />
+
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[369,463] -->
+<!-- /all in one seo pack Pro Version-->
+<link href="../../../../wp-content/themes/videogrid/styles/dark.css" rel="stylesheet" type="text/css" />
+<link href="../../../../wp-content/themes/videogrid/custom.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="../../../../wp-content/uploads/2012/07/wowfavicon.png"/>
+
+	<meta name="description" content="Hi, my name is Wisnu. Im a website designer and developer. Welcome to Worksofwisnu.com, my official portfolio site of free and premium web resources" />
+	<meta name="keywords" content="web designer, web developer, premium website template, tutorial, freebies, author, envato, themeforest, graphicriver, free psd, print design, web elements, wen resources, user interface, template" />
+	<meta name="author" content="ThemeFuse" />	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css">
+#extended-tags-2 .extended-tags .box h3{
+    margin-top: 0;
+}
+</style><meta name="google-site-verification" content="DVkrQyrDh1vDPohX__huXnqOW770lpGEXqr0aw6gM4c" />
+<meta name="msvalidate.01" content="63FB12E4A85A5749BD009BED8FCFF867" />
+<!--ipt type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33708365-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</scri-->
+</head>
+<body class="ie6">
+    <div class="body_wrap">
+        <div class="header">
+            <div class="logo">
+                <a href="../../../../default.htm" title="Works and Blog of Fitryan Wisnu Pratama a.k.a Wisnu">
+                    <img src="../../../../wp-content/uploads/2012/07/wow-logo25.png" alt="worksofwisnu.com &#8211; Just another Web Designer and Developer"  border="0" />
+                </a>
+                <h1>worksofwisnu.com &#8211; Just another Web Designer and Developer</h1>
+            </div><!--/ .logo -->
+            <div class="topmenu"><ul id="menu-menu" class="dropdown"><li id="menu-item-1161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-home"><a href="../../../../default.htm"><span>Home</span></a></li>
+<li id="menu-item-1163" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="../../../../about"><span>About Me</span></a></li>
+<li id="menu-item-1162" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="../../../../category/blog"><span>Blog</span></a></li>
+<li id="menu-item-890" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../../contact"><span>Contact</span></a></li>
+<li id="menu-item-1322" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../../sitemap"><span>Sitemap</span></a></li>
+</ul></div><div class="header_social"><a href="../../../../../https@twitter.com/xnuvandaliantx">Twitter</a><a href="../../../../../www.facebook.com/xnuvandaliantx">Facebook</a><a href="../../../../../feeds.feedburner.com/worksofwisnu">RSS</a></div>        </div><!--/ .header -->
+       
+        <div class="content_top">
+            <div class="breadcrumbs"><div class="breadcrumb-trail"><a href="../../../../default.htm" title="worksofwisnu.com - Just another Web Designer and Developer" rel="home" class="trail-begin">Homepage</a> <span class="separator">&gt;</span> <span class="trail-end">404 Not Found</span></div></div><div class="sort_by">
+                <label>Sort By:</label>
+                <ul id="sort-by">
+                    <li><a href="#date" class="sort-date selected"><span>Date</span></a></li>
+                    <li><a href="#featured" class="sort-featured"><span>Featured Items</span></a></li>
+                    <li><a href="#rates" class="sort-rates"><span>Most Rated</span></a></li>
+                    <li><a href="#comments" class="sort-comments"><span>Most Commented</span></a></li>
+                </ul>
+            </div>
+        </div><!--/ .content_top -->
+<div class="middle cols2_fix">
+
+    <div class="content_wrapper">
+        <div class="content">
+
+            <div class="post-item frame_box post-detail">
+
+                    <div class="entry">
+                        <div class="post-title">
+                            <h1>Page not found</h1>
+                        </div>
+                        <p>The page you were looking for doesn&rsquo;t seem to exist.</p>
+                        <div class="clear"></div>
+                    </div><!--/ .entry -->
+
+            </div><!--/ .post-item frame_box post-detail -->
+
+        </div><!--/ .content -->
+    </div><!--/ .content_wrapper -->
+
+    
+    <div class="sidebar sidebar_left">
+             <div id="calendar-3" class="widget-container widget_calendar"> <div id="calendar_wrap"><table id="wp-calendar">
+	<caption>September 2013</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="../../../../2012/09" title="View posts for September 2012">&laquo; Sep</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="6" class="pad">&nbsp;</td><td>1</td>
+	</tr>
+	<tr>
+		<td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
+	</tr>
+	<tr>
+		<td>9</td><td>10</td><td id="today">11</td><td>12</td><td>13</td><td>14</td><td>15</td>
+	</tr>
+	<tr>
+		<td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
+	</tr>
+	<tr>
+		<td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td class="pad" colspan="6">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div>  
+    </div><!--/ .sidebar1 -->
+
+    
+        <div class="clear"></div>
+</div><!--/ .middle -->
+        
+    <div class="footer_top"></div>
+    <div class="footer">
+
+        <div class="f_col_1">
+
+     <div id="text-3" class="widget_text_box">			<div class="textwidgetbox">
+                    <div class="widget-container widget_categories">
+            <h3>MY WORKS</h3>
+            <ul>
+                <li><a href="../../../../category/my-works/webs">Webs</a></li>
+                <li><a href="../../../../category/my-works/wordpress">Wordpress Theme</a></li>
+                <li><a href="../../../../category/my-works/web-element">Web Elements</a></li>
+                <li><a href="../../../../category/my-works/print-template">Print Template</a></li>
+                <li><a href="../../../../category/my-works/graphics">Graphics</a></li>
+            </ul>
+        </div>
+</div>
+		</div>
+</div><!--/ .f_col_1 -->
+
+<div class="f_col_1">
+
+     
+</div><!--/ .f_col_1 -->
+
+<div class="f_col_1">
+
+     <div id="linkcat-43" class="widget-container widget_links"><h3>Friends' Link</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="../../../../../autotrendupdate.com/default.htm" rel="me" target="_blank">Auto Trend Update</a></li>
+<li><a href="../../../../../www.ewiskangraphic.com/default.htm" rel="friend" target="_blank">eWiskan Graphic</a></li>
+<li><a href="../../../../../www.fandysain.net/default.htm" target="_blank">Fandy Sain</a></li>
+<li><a href="../../../../../homeandfurnituregallery.com/default.htm" rel="me" target="_blank">Home and Furniture Gallery</a></li>
+<li><a href="../../../../../mariogembell.com/default.htm" target="_blank">Mario Design Gallery</a></li>
+
+	</ul>
+</div>
+
+</div><!--/ .f_col_1 -->
+
+<div class="f_col_2">
+
+     <div id="extended-tags-2" class="box tags"><h3>POPULAR TAGS</h3><p class="post_tag-cloud term-cloud extended-tags"><a href='../../../../tag/business-cards' class='rounded r-blue tag-link-68' title='1 topic' style='font-size: 14px;'><span>business cards</span></a> <a href='../../../../tag/error-page' class='rounded r-blue tag-link-45' title='1 topic' style='font-size: 14px;'><span>error page</span></a> <a href='../../../../tag/404-error-page' class='rounded r-blue tag-link-44' title='1 topic' style='font-size: 14px;'><span>404 error page</span></a> <a href='../../../../tag/print-template-2' class='rounded r-blue tag-link-69' title='1 topic' style='font-size: 14px;'><span>print template</span></a> <a href='../../../../tag/web-element-2' class='rounded r-blue tag-link-66' title='1 topic' style='font-size: 14px;'><span>web element</span></a> <a href='../../../../tag/business-card' class='rounded r-blue tag-link-59' title='1 topic' style='font-size: 14px;'><span>business card</span></a> <a href='../../../../tag/transparent' class='rounded r-blue tag-link-58' title='1 topic' style='font-size: 14px;'><span>transparent</span></a></p></div>
+</div><!--/ .f_col_2 -->
+
+<div class="f_col_2">
+
+     <div id="text-3" class="widget-container widget_text">			<div class="textwidget">
+
+    	<div class="widget-container widget_categories">
+            <h3>RESOURCES</h3>
+            <ul>
+                <li><a href="../../../../../themeforest.net/@ref=xwisnux_2F"><img src="../../../../../i1002.photobucket.com/albums/af147/Nu_Vandaliant/tf.png" /></a></li>
+<li><a href="../../../../../graphicriver.net/@ref=xwisnux_2F"><img src="../../../../../i1002.photobucket.com/albums/af147/Nu_Vandaliant/gr.png" /></a></li>
+                <li><a href="../../../../../codecanyon.net/@ref=xwisnux_2F"><img src="../../../../../i1002.photobucket.com/albums/af147/Nu_Vandaliant/cc.png" /></a></li>
+<li><a href="../../../../../audiojungle.net/@ref=xwisnux_2F"><img src="../../../../../i1002.photobucket.com/albums/af147/Nu_Vandaliant/aj-1.png" /></a></li>
+                <li><a href="../../../../../marketplace.tutsplus.com/@ref=xwisnux_2F"><img src="../../../../../i1002.photobucket.com/albums/af147/Nu_Vandaliant/tut.png" /></a></li>
+            </ul>
+        </div>
+</div>
+		</div>
+</div><!--/ .f_col_2 -->
+
+<div class="clear"></div>
+    <div class="footer_social">
+        <ul>
+             <li>        <iframe src="../../../../../www.facebook.com/plugins/like.php@href&send=false&layout=button_count&width=450&show_faces=false&action=like&colorscheme=light&font&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:71px; height:20px;" allowTransparency="true"></iframe>
+    </li>             <li>        <a href="../../../../../https@twitter.com/share" class="twitter-share-button" data-via="twitterapi" data-lang="en">Tweet</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="../../../../../platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </li>             <li>        <g:plusone size="medium"></g:plusone>
+
+        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = '../../../../../https@apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+        </li>        </ul>
+    </div><!--/ .footer_social -->
+
+
+
+    </div><!--/ .footer -->
+
+    <div class="footer_bottom">
+
+        <div class="botmenu"><ul id="menu-menu-bottom" class=""><li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span>Home</span></a></li>
+<li id="menu-item-75" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span>About Us</span></a></li>
+<li id="menu-item-76" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span>Page Types</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span>Our Blog</span></a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span>Contact Us</span></a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span>Terms of Service</span></a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#"><span>Shortcodes</span></a></li>
+</ul></div>        <div class="copyright">
+           &copy; copyright 2011 <a href="../../../../default.htm">Worksofwisnu.com</a>
+        </div>
+
+
+    </div><!--/ .footer_bottom -->
+
+    </div><!--/ .body_wrap -->
+    <script type='text/javascript' src='../../../../wp-includes/js/jquery/jquery.js@ver=1.8.3'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/library/tfuse_framework/js/sendmail.js@ver=1.1'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/preloadCssImages.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/general.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/jquery.tools.min.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/jquery.easing.1.3.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/jquery.prettyPhoto.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/jquery.preloadify.min.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/jquery.jcarousel.min.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/custom.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/shCore.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/shBrushPlain.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/SyntaxHighlighter.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../../maps.google.com/maps/api/js@sensor=false&ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/jquery.gmap.min.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/slides.min.jquery.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/jquery.isotope.min.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/themes/videogrid/js/isotope.js@ver=3.5.2'></script>
+<script type='text/javascript' src='../../../../wp-content/plugins/foobar/js/jquery.foobar.1.4.1.min.js@ver=1.0'></script>
+<script type='text/javascript' src='../../../../wp-content/plugins/foobar/js/jquery.easing.1.3.js@ver=1.0'></script>
+<script type='text/javascript' src='../../../../@foobar-js-dynamic=js&ver=3.5.2'></script>
+
+</body>
+</html>

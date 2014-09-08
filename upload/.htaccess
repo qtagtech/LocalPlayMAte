@@ -1,0 +1,12 @@
+# disable directory browsing
+Options All -Indexes
+
+# secure htaccess file
+<Files .htaccess>
+   order allow,deny
+   deny from all
+</Files>
+
+# disable direct browsing
+deny from all
+

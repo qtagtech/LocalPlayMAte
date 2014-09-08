@@ -1,0 +1,69 @@
+
+
+/*	--------------------------------------------------
+	:: Note: Design for a width of 480px
+	-------------------------------------------------- */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+        
+
+		.grid-container .column-one,
+		.grid-container .column-two,
+		.grid-container .column-three,
+		.grid-container .column-four,
+		.grid-container .column-five,
+		.grid-container .column-six,
+		.grid-container .column-seven,
+		.grid-container .column-eight,
+		.grid-container .column-nine,
+		.grid-container .column-ten,
+		.grid-container .column-eleven,
+		.grid-container .column-twelve { width:98%; }
+		
+		.form .header { 
+		    text-align:center; 
+		}
+		
+		.form .header h4 { 
+		    line-height:22px; 
+		}
+		
+		.form .header a { 
+		    float:none;
+		}
+
+    }
+
+/*	--------------------------------------------------
+	:: Note: Design for a width of 320px
+	-------------------------------------------------- */
+
+    @media only screen and (max-width: 479px) {
+        
+
+		.grid-container .column-one,
+		.grid-container .column-two,
+		.grid-container .column-three,
+		.grid-container .column-four,
+		.grid-container .column-five,
+		.grid-container .column-six,
+		.grid-container .column-seven,
+		.grid-container .column-eight,
+		.grid-container .column-nine,
+		.grid-container .column-ten,
+		.grid-container .column-eleven,
+		.grid-container .column-twelve { width:98%; }
+		
+		.form .header { 
+		    text-align:center; 
+		}
+		
+		.form .header h4 { 
+		    line-height:22px; 
+		}
+		
+		.form .header a { 
+		    float:none;
+		}
+
+    }
